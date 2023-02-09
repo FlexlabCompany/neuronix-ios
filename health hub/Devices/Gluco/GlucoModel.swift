@@ -164,3 +164,5 @@ protocol GlucoViewDelegate {
     func updateProgress(_ progress: Int, _ presence: Int)
     func finishedScan(result: Double)
 }
+
+
